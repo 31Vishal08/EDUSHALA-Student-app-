@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "309434540760",
+    "project_id": "edushala-c45be",
+    "storage_bucket": "edushala-c45be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309434540760:android:03040415e66bd15a1cadad",
+        "android_client_info": {
+          "package_name": "com.edushala.student"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309434540760-21qb8rlp19333tkopkmcjvevmoghuca8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edushala.student",
+            "certificate_hash": "b264081c6efbd426a0f8b08a46bc11ff33bd137e"
+          }
+        },
+        {
+          "client_id": "309434540760-h7k7tmmv2k7ihqr4lml2j44cfhjpsnfk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edushala.student",
+            "certificate_hash": "34f81d77d1c750b71adc973d55c5f0380cd74aac"
+          }
+        },
+        {
+          "client_id": "309434540760-lro3fq4d62fn82ju2f6afi0q8onolj4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edushala.student",
+            "certificate_hash": "f84d9a26b279230cac71ad45c1f13016fba480e2"
+          }
+        },
+        {
+          "client_id": "309434540760-5c1mpbjhjr19kd90k6btjurb0esreuna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8NeikD9OgxI2xUYsqssW7qMqkIBJiNUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309434540760-5c1mpbjhjr19kd90k6btjurb0esreuna.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "309434540760-c6oobvsb5t3ok9b6kh3aht7q798la1hq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edushala.tutor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309434540760:android:f6809db1938934331cadad",
+        "android_client_info": {
+          "package_name": "com.edushala.tutor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309434540760-4hmuhf7bp2tnii2hna4si4nuin4qc3o1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edushala.tutor",
+            "certificate_hash": "34f81d77d1c750b71adc973d55c5f0380cd74aac"
+          }
+        },
+        {
+          "client_id": "309434540760-b9spv80hjeuhe8rhcjvtpk8t8qh14eo2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edushala.tutor",
+            "certificate_hash": "3cf3ba3e278ed08884e1b732dac15c6420d48f80"
+          }
+        },
+        {
+          "client_id": "309434540760-kcq0hl5t23q7775686pjj14jqirtr826.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edushala.tutor",
+            "certificate_hash": "1f078a8c6cbd87aec94507687f9efe396cd580bb"
+          }
+        },
+        {
+          "client_id": "309434540760-5c1mpbjhjr19kd90k6btjurb0esreuna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8NeikD9OgxI2xUYsqssW7qMqkIBJiNUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309434540760-5c1mpbjhjr19kd90k6btjurb0esreuna.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "309434540760-c6oobvsb5t3ok9b6kh3aht7q798la1hq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edushala.tutor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
